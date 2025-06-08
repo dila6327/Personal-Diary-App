@@ -37,9 +37,6 @@ JWT_SECRET=your_jwt_secret
 3. Run Ollama (for AI to work)
 Install Ollama and run:
 
-bash
-Kopyala
-Düzenle
 ollama run mistral
 ✨ If Ollama isn't running, the app will fall back to default suggestions.
 
